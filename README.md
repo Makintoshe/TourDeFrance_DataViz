@@ -6,4 +6,5 @@ Dans ce notebook, je vous emmene à la découverte de quelques visualisations de
 
 - Le contenu manque de commentaires
 - Le document n'a pas été revu, il y a peut être des fautes d'orthographes
-- Il y aussi quelques modifications à porter dans le texte.
+- Plusieurs bouts de code ne sont pas factorisé ou encore le sont un peu trop
+- Il y aussi quelques modifications à porter dans le texte, tenez donc en compte les questions et réponses (visualisations)
