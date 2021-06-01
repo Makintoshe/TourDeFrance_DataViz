@@ -1,0 +1,107 @@
+year,country,cyclist,sponsor/team,distance_km,overall_time,margin,stage_wins,stages_in_lead,controversial,overall_time_sec,margin_sec
+1903,France,Maurice Garin,La Française,2428,3 days 22:33:14.000000000,0 days 02:59:21.000000000,3,6,False,340394.0,10761.0
+1904,France,Maurice Garin Henri Cornet[E],Conte,2428,4 days 00:05:55.000000000,0 days 02:16:14.000000000,1,3,False,345955.0,8174.0
+1905,France,Louis Trousselier,Peugeot–Wolber,2994,,,5,10,False,,
+1906,France,René Pottier,Peugeot–Wolber,4637,,,5,12,False,,
+1907,France,Lucien Petit-Breton,Peugeot–Wolber,4488,,,2,5,False,,
+1908,France,Lucien Petit-Breton,Peugeot–Wolber,4497,,,5,13,False,,
+1909,Luxembourg,François Faber,Alcyon–Dunlop,4498,,,6,13,False,,
+1910,France,Octave Lapize,Alcyon–Dunlop,4734,,,4,3,False,,
+1911,France,Gustave Garrigou,Alcyon–Dunlop,5343,,,2,13,False,,
+1912,Belgium,Odile Defraye,Alcyon–Dunlop,5289,,,3,13,False,,
+1913,Belgium,Philippe Thys,Peugeot–Wolber,5287,8 days 05:54:00.000000000,0 days 00:08:37.000000000,1,8,False,712440.0,517.0
+1914,Belgium,Philippe Thys,Peugeot–Wolber,5380,8 days 08:28:48.000000000,0 days 00:01:50.000000000,1,15,False,721728.0,110.0
+1919,Belgium,Firmin Lambot,La Sportive,5560,9 days 15:07:15.000000000,0 days 01:42:54.000000000,1,2,False,832035.0,6174.0
+1920,Belgium,Philippe Thys,La Sportive,5503,9 days 12:36:13.000000000,0 days 00:57:21.000000000,4,14,False,822973.0,3441.0
+1921,Belgium,Léon Scieur,La Sportive,5485,9 days 05:50:26.000000000,0 days 00:18:36.000000000,2,14,False,798626.0,1116.0
+1922,Belgium,Firmin Lambot,Peugeot–Wolber,5375,9 days 06:08:06.000000000,0 days 00:41:15.000000000,0,3,False,799686.0,2475.0
+1923,France,Henri Pélissier,Automoto–Hutchinson,5386,9 days 06:15:30.000000000,0 days 00:30:41.000000000,3,6,False,800130.0,1841.0
+1924,Italy,Ottavio Bottecchia,Automoto,5425,9 days 10:18:21.000000000,0 days 00:35:36.000000000,4,15,False,814701.0,2136.0
+1925,Italy,Ottavio Bottecchia,Automoto–Hutchinson,5440,9 days 03:10:18.000000000,0 days 00:54:20.000000000,4,13,False,789018.0,3260.0
+1926,Belgium,Lucien Buysse,Automoto–Hutchinson,5745,9 days 22:44:25.000000000,0 days 01:22:25.000000000,2,8,False,859465.0,4945.0
+1927,Luxembourg,Nicolas Frantz,Alcyon–Dunlop,5398,8 days 06:16:42.000000000,0 days 01:48:41.000000000,3,14,False,713802.0,6521.0
+1928,Luxembourg,Nicolas Frantz,Alcyon–Dunlop,5476,8 days 00:48:58.000000000,0 days 00:50:07.000000000,5,22,False,694138.0,3007.0
+1929,Belgium,Maurice De Waele,Alcyon–Dunlop,5286,7 days 18:39:15.000000000,0 days 00:44:23.000000000,1,16,False,671955.0,2663.0
+1930,France,André Leducq,Alcyon–Dunlop,4822,7 days 04:12:16.000000000,0 days 00:14:13.000000000,2,13,False,619936.0,853.0
+1931,France,Antonin Magne,France,5091,7 days 09:10:03.000000000,0 days 00:12:56.000000000,1,16,False,637803.0,776.0
+1932,France,André Leducq,France,4479,6 days 10:11:49.000000000,0 days 00:24:03.000000000,6,19,False,555109.0,1443.0
+1933,France,Georges Speicher,France,4395,6 days 03:51:37.000000000,0 days 00:04:01.000000000,3,12,False,532297.0,241.0
+1934,France,Antonin Magne,France,4470,6 days 03:13:58.000000000,0 days 00:27:31.000000000,3,22,False,530038.0,1651.0
+1935,Belgium,Romain Maes,Belgium,4338,5 days 21:23:00.000000000,0 days 00:17:52.000000000,3,21,False,508980.0,1072.0
+1936,Belgium,Sylvère Maes,Belgium,4442,5 days 22:47:32.000000000,0 days 00:26:55.000000000,4,14,False,514052.0,1615.0
+1937,France,Roger Lapébie,France,4415,5 days 18:58:31.000000000,0 days 00:07:17.000000000,3,4,False,500311.0,437.0
+1938,Italy,Gino Bartali*,Italy,4694,6 days 04:29:12.000000000,0 days 00:18:27.000000000,2,8,False,534552.0,1107.0
+1939,Belgium,Sylvère Maes*,Belgium,4224,5 days 12:03:17.000000000,0 days 00:30:38.000000000,2,8,False,475397.0,1838.0
+1947,France,Jean Robic,France,4642,6 days 04:11:25.000000000,0 days 00:03:58.000000000,3,1,False,533485.0,238.0
+1948,Italy,Gino Bartali*,Italy,4922,6 days 03:10:36.000000000,0 days 00:26:16.000000000,7,9,False,529836.0,1576.0
+1949,Italy,Fausto Coppi*,Italy,4808,6 days 05:40:49.000000000,0 days 00:10:55.000000000,3,5,False,538849.0,655.0
+1950,Switzerland,Ferdinand Kübler,Switzerland,4773,6 days 01:36:56.000000000,0 days 00:09:30.000000000,3,11,False,524216.0,570.0
+1951,Switzerland,Hugo Koblet,Switzerland,4690,5 days 22:20:14.000000000,0 days 00:22:00.000000000,5,11,False,512414.0,1320.0
+1952,Italy,Fausto Coppi*,Italy,4898,6 days 07:57:20.000000000,0 days 00:28:17.000000000,5,14,False,547040.0,1697.0
+1953,France,Louison Bobet,France,4476,5 days 09:23:25.000000000,0 days 00:14:18.000000000,2,5,False,465805.0,858.0
+1954,France,Louison Bobet,France,4656,5 days 20:06:05.000000000,0 days 00:15:49.000000000,3,14,False,504365.0,949.0
+1955,France,Louison Bobet,France,4495,5 days 10:29:26.000000000,0 days 00:04:53.000000000,2,6,False,469766.0,293.0
+1956,France,Roger Walkowiak,France,4498,5 days 04:01:16.000000000,0 days 00:01:25.000000000,0,8,False,446476.0,85.0
+1957,France,Jacques Anquetil,France,4669,5 days 15:44:42.000000000,0 days 00:14:56.000000000,4,15,False,488682.0,896.0
+1958,Luxembourg,Charly Gaul,Luxembourg,4319,4 days 20:59:05.000000000,0 days 00:03:10.000000000,4,2,False,421145.0,190.0
+1959,Spain,Federico Bahamontes*,Spain,4358,5 days 03:46:45.000000000,0 days 00:04:01.000000000,1,6,False,445605.0,241.0
+1960,Italy,Gastone Nencini,Italy,4173,4 days 16:08:42.000000000,0 days 00:05:02.000000000,0,14,False,403722.0,302.0
+1961,France,Jacques Anquetil,France,4397,5 days 02:01:33.000000000,0 days 00:12:14.000000000,2,21,False,439293.0,734.0
+1962,France,Jacques Anquetil,Saint-Raphaël–Helyett–Hutchinson,4274,4 days 18:31:54.000000000,0 days 00:04:59.000000000,2,3,False,412314.0,299.0
+1963,France,Jacques Anquetil,Saint-Raphaël–Gitane–R. Geminiani,4138,4 days 17:30:05.000000000,0 days 00:03:35.000000000,4,5,False,408605.0,215.0
+1964,France,Jacques Anquetil,Saint-Raphaël–Gitane–Dunlop,4504,5 days 07:09:44.000000000,0 days 00:00:55.000000000,4,6,False,457784.0,55.0
+1965,Italy,Felice Gimondi,Salvarani,4188,4 days 20:42:06.000000000,0 days 00:02:40.000000000,3,18,False,420126.0,160.0
+1966,France,Lucien Aimar,Ford France–Hutchinson,4329,4 days 21:34:21.000000000,0 days 00:01:07.000000000,0,6,False,423261.0,67.0
+1967,France,Roger Pingeon,Peugeot–BP–Michelin,4779,5 days 16:53:50.000000000,0 days 00:03:40.000000000,1,17,False,492830.0,220.0
+1968,Netherlands,Jan Janssen,Pelforth–Sauvage–Lejeune,4492,5 days 13:49:42.000000000,0 days 00:00:38.000000000,2,1,False,481782.0,38.0
+1969,Belgium,Eddy Merckx,Faema,4117,4 days 20:16:02.000000000,0 days 00:17:54.000000000,6,18,False,418562.0,1074.0
+1970,Belgium,Eddy Merckx*,Faemino–Faema,4254,4 days 23:31:49.000000000,0 days 00:12:41.000000000,8,20,False,430309.0,761.0
+1971,Belgium,Eddy Merckx,Molteni,3608,4 days 00:45:14.000000000,0 days 00:09:51.000000000,4,17,False,348314.0,591.0
+1972,Belgium,Eddy Merckx,Molteni,3846,4 days 12:17:18.000000000,0 days 00:10:41.000000000,6,15,False,389838.0,641.0
+1973,Spain,Luis Ocaña,Bic,4090,5 days 02:25:34.000000000,0 days 00:15:51.000000000,6,14,False,440734.0,951.0
+1974,Belgium,Eddy Merckx,Molteni,4098,4 days 20:16:58.000000000,0 days 00:08:04.000000000,8,18,False,418618.0,484.0
+1975,France,Bernard Thévenet,Peugeot–BP–Michelin,4000,4 days 18:35:31.000000000,0 days 00:02:47.000000000,2,8,False,412531.0,167.0
+1976,Belgium,Lucien Van Impe,Gitane–Campagnolo,4017,4 days 20:22:23.000000000,0 days 00:04:14.000000000,1,12,False,418943.0,254.0
+1977,France,Bernard Thévenet,Peugeot–Esso–Michelin,4096,4 days 19:38:30.000000000,0 days 00:00:48.000000000,1,8,False,416310.0,48.0
+1978,France,Bernard Hinault,Renault–Gitane–Campagnolo,3908,4 days 12:18:00.000000000,0 days 00:03:56.000000000,3,3,False,389880.0,236.0
+1979,France,Bernard Hinault,Renault–Gitane,3765,4 days 07:06:50.000000000,0 days 00:13:07.000000000,7,17,False,371210.0,787.0
+1980,Netherlands,Joop Zoetemelk,TI–Raleigh–Creda,3842,4 days 13:19:14.000000000,0 days 00:06:55.000000000,2,10,False,393554.0,415.0
+1981,France,Bernard Hinault,Renault–Elf–Gitane,3753,4 days 00:19:38.000000000,0 days 00:14:34.000000000,5,18,False,346778.0,874.0
+1982,France,Bernard Hinault,Renault–Elf–Gitane,3507,3 days 20:08:46.000000000,0 days 00:06:21.000000000,4,12,False,331726.0,381.0
+1983,France,Laurent Fignon#,Renault–Elf,3809,4 days 09:07:52.000000000,0 days 00:04:04.000000000,1,6,False,378472.0,244.0
+1984,France,Laurent Fignon,Renault–Elf,4021,4 days 16:03:40.000000000,0 days 00:10:32.000000000,5,7,False,403420.0,632.0
+1985,France,Bernard Hinault,La Vie Claire,4109,4 days 17:24:23.000000000,0 days 00:01:42.000000000,2,16,False,408263.0,102.0
+1986,United States,Greg LeMond,La Vie Claire,4094,4 days 14:35:19.000000000,0 days 00:03:10.000000000,1,7,False,398119.0,190.0
+1987,Ireland,Stephen Roche,Carrera Jeans–Vagabond,4231,4 days 19:27:42.000000000,0 days 00:00:40.000000000,1,3,False,415662.0,40.0
+1988,Spain,Pedro Delgado,Reynolds,3286,3 days 12:27:53.000000000,0 days 00:07:13.000000000,1,11,False,304073.0,433.0
+1989,United States,Greg LeMond,AD Renting–W-Cup–Bottecchia,3285,3 days 15:38:35.000000000,0 days 00:00:08.000000000,3,8,False,315515.0,8.0
+1990,United States,Greg LeMond,Z–Tomasso,3504,3 days 18:43:20.000000000,0 days 00:02:16.000000000,0,2,False,326600.0,136.0
+1991,Spain,Miguel Indurain,Banesto,3914,4 days 05:01:20.000000000,0 days 00:03:36.000000000,2,10,False,363680.0,216.0
+1992,Spain,Miguel Indurain,Banesto,3983,4 days 04:49:30.000000000,0 days 00:04:35.000000000,3,10,False,362970.0,275.0
+1993,Spain,Miguel Indurain,Banesto,3714,3 days 23:57:09.000000000,0 days 00:04:59.000000000,2,14,False,345429.0,299.0
+1994,Spain,Miguel Indurain,Banesto,3978,4 days 07:38:38.000000000,0 days 00:05:39.000000000,1,13,False,373118.0,339.0
+1995,Spain,Miguel Indurain,Banesto,3635,3 days 20:44:59.000000000,0 days 00:04:35.000000000,2,13,False,333899.0,275.0
+1996,Denmark,Bjarne Riis[A],Team Telekom,3765,3 days 23:57:16.000000000,0 days 00:01:41.000000000,2,13,False,345436.0,101.0
+1997,Germany,Jan Ullrich#,Team Telekom,3950,4 days 04:30:35.000000000,0 days 00:09:09.000000000,2,12,False,361835.0,549.0
+1998,Italy,Marco Pantani,Mercatone Uno–Bianchi,3875,3 days 20:49:46.000000000,0 days 00:03:21.000000000,2,7,False,334186.0,201.0
+1999,United States,Lance Armstrong,U.S. Postal Service,3687,3 days 19:32:16.000000000,0 days 00:07:37.000000000,4,15,True,329536.0,457.0
+2000,United States,Lance Armstrong,U.S. Postal Service,3662,3 days 20:33:08.000000000,0 days 00:06:02.000000000,1,12,True,333188.0,362.0
+2001,United States,Lance Armstrong,U.S. Postal Service,3458,3 days 14:17:28.000000000,0 days 00:06:44.000000000,4,8,True,310648.0,404.0
+2002,United States,Lance Armstrong,U.S. Postal Service,3272,3 days 10:05:12.000000000,0 days 00:07:17.000000000,4,11,True,295512.0,437.0
+2003,United States,Lance Armstrong,U.S. Postal Service,3427,3 days 11:41:12.000000000,0 days 00:01:01.000000000,1,13,True,301272.0,61.0
+2004,United States,Lance Armstrong,U.S. Postal Service,3391,3 days 11:36:02.000000000,0 days 00:06:19.000000000,5,7,True,300962.0,379.0
+2005,United States,Lance Armstrong,Discovery Channel,3593,3 days 14:15:02.000000000,0 days 00:04:40.000000000,1,17,True,310502.0,280.0
+2006,Spain,Floyd LandisÓscar Pereiro[C],Caisse d'Epargne–Illes Balears,3657,3 days 17:40:27.000000000,0 days 00:00:32.000000000,0,8,False,322827.0,32.0
+2007,Spain,Alberto Contador#,Discovery Channel,3570,3 days 19:00:26.000000000,0 days 00:00:23.000000000,1,4,False,327626.0,23.0
+2008,Spain,Carlos Sastre*,Team CSC,3559,3 days 15:52:52.000000000,0 days 00:00:58.000000000,1,5,False,316372.0,58.0
+2009,Spain,Alberto Contador,Astana,3459,3 days 13:48:35.000000000,0 days 00:04:11.000000000,2,7,False,308915.0,251.0
+2010,Luxembourg,Alberto ContadorAndy Schleck#[D],Team Saxo Bank,3642,3 days 19:59:27.000000000,0 days 00:01:22.000000000,2,12,False,331167.0,82.0
+2011,Australia,Cadel Evans,BMC Racing Team,3430,3 days 14:12:22.000000000,0 days 00:01:34.000000000,1,2,False,310342.0,94.0
+2012,Great Britain,Bradley Wiggins,Team Sky,3496,3 days 15:34:47.000000000,0 days 00:03:21.000000000,2,14,False,315287.0,201.0
+2013,Great Britain,Chris Froome,Team Sky,3404,3 days 11:56:20.000000000,0 days 00:04:20.000000000,3,14,False,302180.0,260.0
+2014,Italy,Vincenzo Nibali,Astana,3660,3 days 17:59:06.000000000,0 days 00:07:37.000000000,4,19,False,323946.0,457.0
+2015,Great Britain,Chris Froome*,Team Sky,3360,3 days 12:46:14.000000000,0 days 00:01:12.000000000,1,16,False,305174.0,72.0
+2016,Great Britain,Chris Froome,Team Sky,3529,3 days 17:04:48.000000000,0 days 00:04:05.000000000,2,14,False,320688.0,245.0
+2017,Great Britain,Chris Froome,Team Sky,3540,3 days 14:20:55.000000000,0 days 00:00:54.000000000,0,15,False,310855.0,54.0
+2018,Great Britain,Geraint Thomas,Team Sky,3349,3 days 11:17:13.000000000,0 days 00:01:51.000000000,2,11,False,299833.0,111.0
+2019,Colombia,Egan Bernal#,Team Ineos,3349,3 days 10:57:00.000000000,0 days 00:01:11.000000000,0,2,False,298620.0,71.0
