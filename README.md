@@ -1,6 +1,6 @@
 # TourDeFrance_DataViz
 
-Dans ce notebook, je vous emmene à la découverte de quelques visualisations des vainqueurs du Tour de France entre 1903 à 2020 soit, des 107 éditions.
+Dans ce notebook, je vous emmene à la découverte de quelques visualisations des vainqueurs du Tour de France entre 1903 à 2020 soit, les 107 éditions.
 
 #### Nota Bene
 
